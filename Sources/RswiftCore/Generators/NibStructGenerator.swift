@@ -30,6 +30,7 @@ private let Ordinals = [
   (number: 18, word: "eighteenth"),
   (number: 19, word: "nineteenth"),
   (number: 20, word: "twentieth"),
+  (number: 21, word: "twentyfirst"),
 ]
 
 struct NibStructGenerator: StructGenerator {

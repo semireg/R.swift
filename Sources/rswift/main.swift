@@ -39,7 +39,7 @@ extension ProcessInfo {
 
 // Flags grouped in struct for readability
 struct CommanderFlags {
-  static let version = Flag("version", description: "Prints version information about this release.")
+  static let version = Flag("version", description: "Prints version information about this SEMIREG! release.")
   static let edge = Flag("edge", description: "Enable stable features that will be in the next major release.")
 }
 
